@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/neurostyl/static/css/main.e6c13ad2.css",
+    "main.js": "/neurostyl/static/js/main.74b24c3f.js",
+    "static/js/453.8f12607f.chunk.js": "/neurostyl/static/js/453.8f12607f.chunk.js",
+    "index.html": "/neurostyl/index.html",
+    "main.e6c13ad2.css.map": "/neurostyl/static/css/main.e6c13ad2.css.map",
+    "main.74b24c3f.js.map": "/neurostyl/static/js/main.74b24c3f.js.map",
+    "453.8f12607f.chunk.js.map": "/neurostyl/static/js/453.8f12607f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.74b24c3f.js"
+  ]
+}
